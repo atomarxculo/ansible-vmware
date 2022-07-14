@@ -1,0 +1,1 @@
+ansible-playbook create_vm.yml --connection=local
